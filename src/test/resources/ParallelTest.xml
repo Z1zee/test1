@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel tests Intro" parallel="classes" thread-count="3">
+    <test name="Sanity tests">
+        <classes>
+            <class name="tests.exapleWebsites.AmazonTests"></class>
+            <class name="tests.exapleWebsites.EtsyTests"></class>
+            <class name="tests.exapleWebsites.GoogleTests"></class>
+        </classes>
+    </test>
+</suite>

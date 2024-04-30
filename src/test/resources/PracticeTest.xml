@@ -1,0 +1,16 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Test">
+    <test name="Login Tests">
+        <groups>
+            <run>
+                <include name="practice"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.exapleWebsites.GoogleTests"></class>
+            <class name="tests.exapleWebsites.AmazonTests"></class>
+            <class name="tests.exapleWebsites.EtsyTests"></class>
+        </classes>
+    </test>
+</suite>

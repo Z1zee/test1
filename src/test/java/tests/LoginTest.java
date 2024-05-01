@@ -16,6 +16,7 @@ import utilities.Driver;
 public class LoginTest {
 
     WebDriver driver;
+
     LoginPage loginPage;
 
     @BeforeMethod

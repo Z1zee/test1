@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7def0ddc-c314-429b-a82a-64a5287f1de5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Z1zee&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Z1zee/IsaClass.git&quot;,
+    &quot;accountId&quot;: &quot;9e6d3720-2e95-4e97-a198-606ca39913c0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2exnw2kMSTbwNs3FQaByA5mH5rk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.DirectoryTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DirectoryTests.verify.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.testSuccessfulLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PIMTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PIMTests.verifyAdminCanCreateEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestNGIntro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestNGIntro.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestNGIntro.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestNGIntroTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/ParallelTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/PracticeTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SanityTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SmokeTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestNGIntroTests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mamyt/IdeaProjects/Copy/StudyMateAutomationFramework/pom.xml&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mamyt/IdeaProjects/SeleniumJUnitTestFramework/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Properties&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+      <recent name="tests" />
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DirectoryTests.verify">
+    <configuration name="DirectoryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJUnitTestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.testNGPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.testNGPractice" />
+      <option name="MAIN_CLASS_NAME" value="tests.testNGPractice.DirectoryTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectoryTests.verify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJUnitTestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.testNGPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.testNGPractice" />
+      <option name="MAIN_CLASS_NAME" value="tests.testNGPractice.DirectoryTests" />
+      <option name="METHOD_NAME" value="verify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PIMTests.verifyAdminCanCreateEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJUnitTestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PIMTests" />
+      <option name="METHOD_NAME" value="verifyAdminCanCreateEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SanityTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJUnitTestFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SanityTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SmokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumJUnitTestFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SmokeTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DirectoryTests.verify" />
+        <item itemvalue="JUnit.DirectoryTests" />
+        <item itemvalue="JUnit.PIMTests.verifyAdminCanCreateEmployee" />
+        <item itemvalue="TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SanityTest.xml" />
+        <item itemvalue="TestNG.C:/Users/mamyt/IdeaProjects/SeleniumTestNGTestFramework/src/test/resources/SmokeTest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7def0ddc-c314-429b-a82a-64a5287f1de5" name="Changes" comment="" />
+      <created>1712855336402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712855336402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
